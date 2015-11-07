@@ -1,4 +1,4 @@
-name := "hindley"
+name := "pure-io"
 
 version := "1.0"
 
